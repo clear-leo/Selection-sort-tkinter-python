@@ -40,6 +40,7 @@ class buttonfunctions:
 
 window = tk.Tk()
 window.geometry("400x300")
+window.title('Selection sort-ish thing')
 
 title_frame = tk.Frame(window)
 title_frame.pack(pady = 20)
